@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p lmdi Logarithmic Mean Divisia Index (LMDI) Decomposition Use lmdi With STATA 18
