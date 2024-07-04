@@ -1,6 +1,8 @@
 # lmdi
 Logarithmic Mean Divisia Index (LMDI) Decomposition Use lmdi With STATA 18
 
+https://www.youtube.com/watch?v=0ZJVh_oVsXQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
